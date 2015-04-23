@@ -1,9 +1,9 @@
-version = '0.0.1'
+version = '0.0.2'
 
 Pod::Spec.new do |s|
   s.name         = "MZViewInspectables"
   s.version      = version
-  s.summary      = "Category to add IB inspectability to various UIView properties"
+  s.summary      = "Category to add common IBInspectable properties to UIView instances"
 
   s.description  = <<-DESC
                    A set of categories to allow native Interface Builder manipulation
